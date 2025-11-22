@@ -1,3 +1,9 @@
+---
+layout: default
+title: AUD/USD CIP Model
+---
+
+
 # GeoStartup Analytics  
 *Data + ML Portfolio — Geospatial Startup Mapping*
 
